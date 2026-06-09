@@ -1,0 +1,8 @@
+# Pasta privada com segredos
+Privado/
+
+# Arquivos de variáveis de ambiente
+*.perm
+*.key
+*.ppk
+*.csv
